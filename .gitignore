@@ -1,14 +1,5 @@
 node_modules/
 .env
 
-# macOS junk
-.DS_Store
-__MACOSX/
-
-# archives & docs
-*.zip
-*.pdf
-*.pptx
-
-# images not needed
-Screenshot*.png
+NUTRINEST-FRONTEND-master/node_modules/
+NUTRINEST-BACKEND-master/node_modules/
